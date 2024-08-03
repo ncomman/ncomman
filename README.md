@@ -11,7 +11,7 @@ I'm currently diving deep into the world of data science and machine learning. I
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img width="48" height="48" src="https://img.icons8.com/ink/48/gmail-new.png" alt="gmail-new"/>](mailto:hareram1408@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>](mailto:hareram1408@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
 
 ---
