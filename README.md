@@ -1,8 +1,18 @@
-# 👋 Hi, I'm John Doe
+# 👋 Hi, I'm Hare Ram
 
-**Aspiring Data Scientist | Machine Learning Enthusiast**
+**Machine Learning and Data Science Enthusiast**
 
 I'm currently diving deep into the world of data science and machine learning. I have gained skills in data manipulation, visualization, and building ML models. Here’s a bit about what I’ve been working on and learning.
+
+---
+
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on ML/AI
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img width="48" height="48" src="https://img.icons8.com/ink/48/gmail-new.png" alt="gmail-new"/>](mailto:hareram1408@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+- 😄 Pronouns: Techie
 
 ---
 
@@ -37,9 +47,8 @@ Developed a machine learning model to predict outcomes and validate its performa
 ---
 
 ## 📫 Contact
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [youremail@example.com](mailto:hareram1408@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hare-ram14/)
 
 ---
 
